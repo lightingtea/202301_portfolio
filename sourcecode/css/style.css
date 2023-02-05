@@ -162,7 +162,7 @@ ul li:nth-child(4)::before {
     width: 100%;
 }
 
-#project a {ㄴ
+#project a {
     color: gold;
     display: inline-block;
     border-radius: 4px;
